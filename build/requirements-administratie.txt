@@ -1,0 +1,8 @@
+requests>=2.31
+openpyxl>=3.1
+keyring>=24
+msoffcrypto-tool>=5.4
+pypdf>=4
+pywin32>=306 ; sys_platform == "win32"
+flask>=3
+waitress>=3

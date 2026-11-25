@@ -1,0 +1,13 @@
+node_modules/
+out/
+dist/
+test-output/
+# ingebouwde Python (groot, wordt opnieuw opgebouwd uit build/requirements-administratie.txt)
+build/python/
+build/python-download/
+# lokale wachtwoorden en instellingen: nooit committen
+*.local.txt
+*.local.json
+.env*
+*.vault.json
+vault.json
